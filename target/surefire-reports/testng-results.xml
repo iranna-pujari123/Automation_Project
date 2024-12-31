@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-30T19:23:07 IST" name="Suite" finished-at="2024-12-30T19:23:07 IST" duration-ms="98">
+    <groups>
+    </groups>
+    <test started-at="2024-12-30T19:23:07 IST" name="Test" finished-at="2024-12-30T19:23:07 IST" duration-ms="98">
+      <class name="WebDriverPackage.Multiple_TestCase">
+        <test-method signature="testCase1()[pri:0, instance:WebDriverPackage.Multiple_TestCase@7c24b813]" started-at="2024-12-30T19:23:07 IST" name="testCase1" finished-at="2024-12-30T19:23:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase2()[pri:0, instance:WebDriverPackage.Multiple_TestCase@7c24b813]" started-at="2024-12-30T19:23:07 IST" name="testCase2" finished-at="2024-12-30T19:23:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method signature="testCase3()[pri:0, instance:WebDriverPackage.Multiple_TestCase@7c24b813]" started-at="2024-12-30T19:23:07 IST" name="testCase3" finished-at="2024-12-30T19:23:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method signature="testCase4()[pri:0, instance:WebDriverPackage.Multiple_TestCase@7c24b813]" started-at="2024-12-30T19:23:07 IST" name="testCase4" finished-at="2024-12-30T19:23:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method signature="testCase5()[pri:0, instance:WebDriverPackage.Multiple_TestCase@7c24b813]" started-at="2024-12-30T19:23:07 IST" name="testCase5" finished-at="2024-12-30T19:23:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+      </class> <!-- WebDriverPackage.Multiple_TestCase -->
+      <class name="WebDriverPackage.Multple_TestCase2">
+        <test-method signature="testCase10()[pri:0, instance:WebDriverPackage.Multple_TestCase2@3b6ddd1d]" started-at="2024-12-30T19:23:07 IST" name="testCase10" finished-at="2024-12-30T19:23:07 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase10 -->
+        <test-method signature="testCase6()[pri:0, instance:WebDriverPackage.Multple_TestCase2@3b6ddd1d]" started-at="2024-12-30T19:23:07 IST" name="testCase6" finished-at="2024-12-30T19:23:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase6 -->
+        <test-method signature="testCase7()[pri:0, instance:WebDriverPackage.Multple_TestCase2@3b6ddd1d]" started-at="2024-12-30T19:23:07 IST" name="testCase7" finished-at="2024-12-30T19:23:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase7 -->
+        <test-method signature="testCase8()[pri:0, instance:WebDriverPackage.Multple_TestCase2@3b6ddd1d]" started-at="2024-12-30T19:23:07 IST" name="testCase8" finished-at="2024-12-30T19:23:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase8 -->
+        <test-method signature="testCase9()[pri:0, instance:WebDriverPackage.Multple_TestCase2@3b6ddd1d]" started-at="2024-12-30T19:23:07 IST" name="testCase9" finished-at="2024-12-30T19:23:07 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase9 -->
+      </class> <!-- WebDriverPackage.Multple_TestCase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
